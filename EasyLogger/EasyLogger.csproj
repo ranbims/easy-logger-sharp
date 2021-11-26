@@ -2,6 +2,12 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Ran Bi</Authors>
+    <Version>0.1.0</Version>
+    <Company />
+    <Description>A helper class for log in ETW (Event Tracing for Windows).</Description>
+    <PackageProjectUrl>https://github.com/ranbims/easy-logger-sharp</PackageProjectUrl>
+    <PackageId>EtwEasyLogger</PackageId>
   </PropertyGroup>
 
 </Project>
